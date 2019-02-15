@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: Dockerfile
     cap_add:
-      - CAP_SYS_PTRACE
+      - SYS_PTRACE
     security_opt:
       - seccomp:unconfined
     command: /bin/bash
