@@ -21,7 +21,6 @@ build/*/.go
 !build/*/.go/README.md
 !*/build/*/.go/README.md
 
-
 #
 # Conventional
 #
