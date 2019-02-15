@@ -1,3 +1,3 @@
 # Go volume
 
-Volume for mounting locally the go workspace
+Volume for mounting locally the Go workspace
