@@ -12,5 +12,5 @@ services:
     command: /bin/bash
     tty: true
     volumes:
-      - ./go:/go
+      - ./.go:/go
       - ../../../:/home/go
